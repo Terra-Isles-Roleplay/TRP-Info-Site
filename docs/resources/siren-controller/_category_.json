@@ -1,0 +1,8 @@
+{
+  "label": "TRP Siren Controller",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Our custom siren controller created by Dynamic Modifications and developed by the TRP Development Team. This controller is designed to provide enhanced functionality and customization options for sirens in the game. It allows users to easily manage and control their sirens, making it a valuable tool for players who want to create immersive and dynamic gameplay experiences."
+  }
+}
